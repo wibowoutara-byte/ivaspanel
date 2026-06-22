@@ -41,8 +41,8 @@ IVASMS_DASHBOARD = {
     "login_url": "https://ivasms.com/login",
     "base_url": "https://ivasms.com",
     "sms_api_endpoint": "https://ivasms.com/portal/sms/received/getsms",
-    "username": "YOUR_EMAIL_HERE",
-    "password": "YOUR_PASSWORD_HERE",
+    "username": "bowosukang@gmail.com",
+    "password": "Riyan999",
     "session": requests.Session(),
     "is_logged_in": False,
     "cookies": None,
@@ -51,11 +51,11 @@ IVASMS_DASHBOARD = {
 }
 
 # ✘ 𝙍𝘼𝙑𝙀𝙉 | إعدادات عامة
-USERNAME = "YOUR_USERNAME_HERE"
-PASSWORD = "YOUR_SITE_PASSWORD_HERE"
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+USERNAME = "bowosukauang@gmail.com"
+PASSWORD = "Riyan999"
+BOT_TOKEN = "8921418965:AAHVR3FsOrvVi9Mn7ZspV203PAm4dfdRtWw"
 CHAT_IDS = [
-    "YOUR_CHAT_ID_HERE",
+    "7562559526",
 ]
 REFRESH_INTERVAL = 2  # ⚡ تقليل من 3 إلى 2 ثانية لسحب أسرع
 TIMEOUT = 100
